@@ -1,4 +1,5 @@
-### Hi there 👋
+![doge](https://user-images.githubusercontent.com/375907/227991896-4d1284d8-b5dc-4511-ac52-6e7f9a85fba0.jpg)
+
 
 <!--
 **sebbert/sebbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
